@@ -4,7 +4,7 @@
 
 ### PhD Researcher in Computer Science · University Professor · Software & Applied AI
 
-Building data-driven systems at the intersection of **Artificial Intelligence, Software Engineering, Analytics and Digital Transformation**.
+Building **data-driven software, analytical systems and geospatial applications** while researching Artificial Intelligence and modern machine learning.
 
 [![GitHub](https://img.shields.io/badge/GitHub-abraaorosal-181717?style=for-the-badge&logo=github)](https://github.com/abraaorosal)
 ![Profile Views](https://komarev.com/ghpvc/?username=abraaorosal&style=for-the-badge)
@@ -13,22 +13,22 @@ Building data-driven systems at the intersection of **Artificial Intelligence, S
 
 ---
 
-## About
+## Profile
 
-I am a researcher, professor and developer focused on transforming complex problems into useful, measurable and maintainable software.
+I am a researcher, professor and software developer working at the intersection of **Computer Science, Artificial Intelligence, Software Engineering and Data Systems**.
 
-My work combines **Artificial Intelligence**, **data analysis**, **web engineering**, **decision-support systems** and **technology applied to public-sector and educational contexts**.
+My public engineering portfolio is centered on analytical dashboards, geospatial systems, data pipelines, decision-support applications and educational technology. My academic interests extend to **Deep Learning, Language Models and model interpretability**.
 
-- 🎓 PhD researcher in **Computer Science**, with emphasis on Artificial Intelligence
-- 👨‍🏫 University professor in computing and technology-related disciplines
-- 🧠 Interested in **AI/ML, Deep Learning, Language Models and model interpretability**
-- 📊 Developer of analytical dashboards and data-driven decision-support tools
-- ⚙️ Focused on practical systems, automation and software with real-world impact
-- 🔬 Strong interest in research that connects theory, experimentation and deployable solutions
+- 🎓 PhD researcher in **Computer Science**
+- 👨‍🏫 University professor in computing and technology
+- 🧠 Research interests: **AI/ML, Deep Learning, Language Models, representation and interpretability**
+- 🗺️ Practical experience with **geospatial and territorial data systems**
+- 📊 Developer of **analytics, BI and decision-support applications**
+- ⚙️ Focused on maintainable software, reproducible data workflows and real-world impact
 
 ---
 
-## Core Technologies
+## Engineering Stack
 
 <div align="center">
 
@@ -38,10 +38,9 @@ My work combines **Artificial Intelligence**, **data analysis**, **web engineeri
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -49,39 +48,44 @@ My work combines **Artificial Intelligence**, **data analysis**, **web engineeri
 
 ---
 
-## Selected Projects
+## Featured Engineering Work
 
-| Project | What it demonstrates |
-|---|---|
-| 📊 [Painel Estatístico CPRAIO](https://github.com/abraaorosal/estatistica24_25_CPRaio) | Interactive analytics dashboard for comparative indicators, rankings, insights and data validation using Next.js |
-| 🎓 [RAIO nas Escolas](https://github.com/abraaorosal/RAIO_NAS_ESCOLAS_NEAO) | Educational digital experience built with HTML, CSS and JavaScript for institutional and citizenship-oriented content |
-| 📈 [Alinova Resultados](https://github.com/abraaorosal/alinovaresultados) | Food-waste analytics dashboard with spreadsheet-to-JSON data processing and a TypeScript/Vite web interface |
-| 💻 [VC Programador](https://github.com/abraaorosal/VcProgramador) | Technology education product and static web experience |
-| 🌐 [Backend Localização](https://github.com/abraaorosal/backend-localizacao) | Node.js/Express backend service illustrating API-oriented development |
+| Project | Engineering signal |
+| --- | --- |
+| 🗺️ [AIS Ceará — Territorial Intelligence](https://github.com/abraaorosal/AISPMCE_2026.1) | React + TypeScript geospatial application with Leaflet, GeoJSON processing, territorial normalization and preprocessing pipelines |
+| 📊 [CPRAIO Analytics](https://github.com/abraaorosal/estatistica24_25_CPRaio) | Next.js analytical dashboard with CSV ingestion, rankings, visualizations, exports and data validation |
+| 🐍 [Ceará Territorial Explorer](https://github.com/abraaorosal/raio_territorio) | Python geospatial application using Streamlit, GeoPandas, Folium, OSMnx and spatial preprocessing |
+| 🛣️ [Territorial Redistribution Analysis](https://github.com/abraaorosal/redistribuicaoCPRaio_Batalhao) | Decision-support workflow combining Python, territorial datasets, road-distance analysis and OSRM |
+| 📈 [Alinova Results](https://github.com/abraaorosal/alinovaresultados) | Business-intelligence system with Python/openpyxl ETL and a React + TypeScript analytical interface |
+| 🎓 [LTD Mini-Courses](https://github.com/abraaorosal/minicursoLTD) | Educational product built with React, TypeScript, Vite and component-based content architecture |
 
 ---
 
-## Current Focus
+## Research Direction
 
 ```text
 Artificial Intelligence
 ├── Deep Learning
 ├── Language Models
-├── Representation & Interpretability
+├── Representation Dynamics
+├── Model Interpretability
 └── Applied AI
 
-Software Engineering
-├── Full-stack applications
-├── Data dashboards
-├── APIs and automation
-└── Decision-support systems
+Software & Data Systems
+├── Analytical dashboards
+├── Geospatial engineering
+├── Data pipelines
+├── Decision-support systems
+└── Web applications
 
 Research & Teaching
 ├── Computer Science
-├── Programming
-├── Data-driven systems
+├── Programming education
+├── Reproducible experimentation
 └── Technology applied to real-world problems
 ```
+
+A major current portfolio objective is to make the **AI research track as visible in public code as the software and data-engineering track already is**.
 
 ---
 
@@ -92,11 +96,11 @@ Research & Teaching
 I value:
 
 - clear architecture and readable code;
-- evidence-driven technical decisions;
-- reproducible research and experimentation;
-- data quality and validation;
-- security and responsible use of technology;
-- continuous learning and knowledge sharing.
+- explicit data provenance and validation;
+- reproducible research and analytical workflows;
+- separation of concerns between data, logic and presentation;
+- security, privacy and responsible technology use;
+- documentation that explains both **how** a system works and **why** it exists.
 
 ---
 
@@ -116,6 +120,6 @@ I value:
 
 ### Research · Build · Teach · Improve
 
-**Artificial Intelligence · Software Engineering · Data · Education · Digital Transformation**
+**Artificial Intelligence · Software Engineering · Data Systems · Geospatial Computing · Education**
 
 </div>
